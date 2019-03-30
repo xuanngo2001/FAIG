@@ -1,3 +1,19 @@
+# What does it do?
+- Login Code, generates a token that is used throughout the program.
+- Read in lots of data from the markets for your chosen instrument.
+- Create two arrays, One Array has an (Low Price, Volume) and the second (High Price)
+- Pass this into a Linear Regression Algorithm.
+- Returns the next High price prediction point.
+- Check this is at least 80% accurate
+- Check if this prediction is above or below current price on market.
+- Trade accordingly, Long or Short.
+- Check the price continuously until in profit.
+- Trade either hits Limit Distance OR predefined limit.
+- Close trade
+- Loop round again.
+
+Note to self: It only uses linear regression function to predict price. I have read the code but this is a good example to see how to interact with IG api.
+
 # FAIG - Fully Automated IG Index
 
 1. Requires a valid IG Index Account - https://www.ig.com/uk/welcome-page
