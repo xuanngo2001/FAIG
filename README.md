@@ -12,7 +12,7 @@
 - Close trade
 - Loop round again.
 
-**Note to self**: It only uses linear regression function to predict price. I have read the code but this is a good example to see how to interact with IG api.
+**Note to self**: It only uses linear regression function to predict price. I haven't read the code but this is a good example to see how to interact with IG api.
 https://www.reddit.com/r/Forex/duplicates/7q6af1/faig_fully_automated_ig_trading_a_python_script/
 
 # FAIG - Fully Automated IG Index
